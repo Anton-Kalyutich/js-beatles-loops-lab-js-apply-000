@@ -20,5 +20,5 @@ function iLoveTheBeatles(n) {
   var i = 0;
   do {
     
-  }
+  } while (i < n);
 }
