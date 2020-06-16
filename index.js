@@ -19,6 +19,6 @@ function iLoveTheBeatles(n) {
   loveStrings = [];
   var i = 0;
   do {
-    
+    loveStrings.push("I love the Beatles!")
   } while (i < n);
 }
